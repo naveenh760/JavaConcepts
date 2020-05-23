@@ -28,6 +28,7 @@ class FuncInterfaceDemo
 
 		// This calls above lambda expression and prints 10. 
 		fobj.abstractFun(5); 
+		fobj.normalFun();
 	} 
 } 
 
