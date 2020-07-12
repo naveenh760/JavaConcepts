@@ -21,7 +21,7 @@ public class ArrayEx {
 			array1[i] = i;
 		}
 
-		System.out.print("\nAfter initialization ");
+		System.out.print("\nAfter initialization1 ");
 		for (int value : array1) {
 			System.out.print(value + " ");
 		}
