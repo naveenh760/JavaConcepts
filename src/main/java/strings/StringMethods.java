@@ -11,6 +11,7 @@ public class StringMethods {
 	public static void methodsEx ()
     {
         String s= "GeeksforGeeks";
+        
         // or String s= new String ("GeeksforGeeks");
 
         // Returns the number of characters in the String.
