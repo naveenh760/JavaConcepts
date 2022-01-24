@@ -1,6 +1,10 @@
 package main;
 
-import oops.*;
+import oops.points.Point;
+import oops.points.Point3D;
+import oops.shapes.Circle;
+import oops.shapes.Shape;
+import oops.shapes.Square;
 
 public class Main {
 

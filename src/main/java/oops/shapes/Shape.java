@@ -1,4 +1,4 @@
-package oops;
+package oops.shapes;
 
 public interface Shape {
 

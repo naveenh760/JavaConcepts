@@ -1,8 +1,9 @@
 package test;
-import oops.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import oops.points.Point;
+import oops.points.Point3D;
 import org.junit.jupiter.api.Test;
 
 public class PointTest {

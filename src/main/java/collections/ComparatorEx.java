@@ -5,8 +5,8 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import oops.Point;
-import oops.Point3D;
+import oops.points.Point;
+import oops.points.Point3D;
 
 public class ComparatorEx {
 

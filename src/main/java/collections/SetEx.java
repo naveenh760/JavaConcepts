@@ -27,10 +27,15 @@ public class SetEx {
 		bbst.add(15);
 		bbst.remove(5);
 		System.out.println(bbst);
+
 		System.out.println(bbst.floor(15));
+		System.out.println(bbst.lower(15));
+
 		System.out.println(bbst.ceiling(15));
-		System.out.println(bbst.headSet(15));
 		System.out.println(bbst.higher(15));
+
+
+		System.out.println(bbst.headSet(15));
 		System.out.println(bbst.subSet(10, 15));
 		
 	}

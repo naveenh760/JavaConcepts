@@ -1,4 +1,4 @@
-package oops;
+package oops.points;
 
 public class Point implements Comparable<Point>{
 

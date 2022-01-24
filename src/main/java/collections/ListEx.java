@@ -14,7 +14,7 @@ public class ListEx {
 	
 	public static void testArrayList() {
 		int n = 5;
-		List<Integer> intList= new ArrayList<Integer>(n);
+		List<Integer> intList= new ArrayList<>(n);
 		for(int i=0; i<n; i++) {
 			intList.add(i*5);
 		}
