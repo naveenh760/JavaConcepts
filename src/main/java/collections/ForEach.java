@@ -34,6 +34,7 @@ public class ForEach {
 		//traversing with Consumer interface implementation
 		MyConsumer action = new MyConsumer();
 		myList.forEach(action);
+		myList.forEach(System.out::println);
 		
 	}
 

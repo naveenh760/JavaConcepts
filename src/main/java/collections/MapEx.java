@@ -30,7 +30,7 @@ public class MapEx {
 	}
 
 	public static void testSortedMap() {
-		SortedMap<Integer, String> sortedMap = new TreeMap<Integer, String>();
+		SortedMap<Integer, String> sortedMap = new TreeMap<>();
 		String[] values = { "Test", "Sai", "Hello" };
 
 		for (int i = values.length - 1; i >= 0; i--) {
